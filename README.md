@@ -17,5 +17,5 @@
 
 ## 4. Co-Development
 - ### 4.1. [Packaging your code](mds/co_packaging.md)
-- ### 4.2. [Github branch](mds/co_github_branch.md)
+- ### 4.2. [Work on same repository](mds/co_github_branch.md)
 
