@@ -1,9 +1,9 @@
 [Main](../README.md)
 
 ## Tkinter
-<img src="../images/10.PNG" height="400">
+<img src="../images/10.PNG" width="90%">
 
 ## Gui Module Wrapper
-<img src="../images/11.PNG" height="350">
+<img src="../images/11.PNG" width="80%">
 
 [Main](../README.md)
