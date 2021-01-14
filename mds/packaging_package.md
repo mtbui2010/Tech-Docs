@@ -2,9 +2,9 @@
 
 [Sample package](https://github.com/mtbui2010/testlib.git)
 
-<img src="../images/12.PNG" width="50%">
+<img src="../images/12.PNG" width="60%">
 
 ## How to use package
-<img src="../images/13_.PNG" height="350">
+<img src="../images/13_.PNG" width="80%">
 
 [Main](../README.md)
