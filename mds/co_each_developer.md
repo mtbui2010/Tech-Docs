@@ -1,12 +1,12 @@
 [Main](../README.md)
 
 ## Data I/O design
-<img src="../images/7.PNG" height="500">
+<img src="../images/7.PNG" height="300">
 
 ## Sensor Data Design
-<img src="../images/8.PNG" height="500">
+<img src="../images/8.PNG" height="300">
 
 ## Utility
-<img src="../images/9.PNG" height="500">
+<img src="../images/9.PNG" height="300">
 
 [Main](../README.md)
