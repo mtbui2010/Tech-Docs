@@ -1,5 +1,5 @@
 [Main](../README.md)
 
-<img src="../images/14.PNG" height="200">
+<img src="../images/14.PNG" height="300">
 
 [Main](../README.md)
