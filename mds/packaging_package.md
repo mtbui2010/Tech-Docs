@@ -7,6 +7,4 @@
 ## How to use package
 <img src="../images/13_.PNG" height="500">
 
-## fe
-
 [Main](../README.md)
