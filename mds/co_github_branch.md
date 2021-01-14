@@ -1,13 +1,9 @@
 [Main](../README.md)
 
-- Module design: (Detector, Sensor, Robot, Workcell)
-     + Unique module dev style 
-     + Easy to extend modules
-     + Inheritance from pre-defined modules
-- Data I/O design:
-     + RGB, depth wrapper
-     + Sensor modules
-- Well-organize common utilities
+- A repository  includes **1 default master** branch and other **users’ branches**
+- Master branch should be **deployable**, whereas users’ branches are **specified*.
+
+<img src="../images/17.PNG" height="350">
 
 [Main](../README.md)
 
