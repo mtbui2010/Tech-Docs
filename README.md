@@ -16,6 +16,6 @@
 - ### 3.5. [Pypi](mds/packaging_pypi.md)
 
 ## 4. Co-Development
-- ### 4.1. [Github branch](mds/co_github_branch.md)
-- ### 4.2. [For each developer](mds/co_each_developer.md)
+- ### 4.1. [Packaging your code](mds/co_packaging.md)
+- ### 4.2. [Github branch](mds/co_github_branch.md)
 
