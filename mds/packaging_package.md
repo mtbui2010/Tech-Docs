@@ -1,6 +1,6 @@
 [Main](../README.md)
 
-![Sample package](https://github.com/mtbui2010/testlib)
+[Sample package](https://github.com/mtbui2010/testlib.git)
 
 <img src="../images/12.PNG" height="500">
 
