@@ -26,6 +26,7 @@ pip install $PACKAGE_NAME
 ```
 
 ### Distritrube binary package
+[Sample code](https://github.com/mtbui2010/manage_scripts/blob/master/distribute_package.py)
 - Pypi does not allow system-specified binary package
 -> Trick:  change dist/[package-name]-[system]-linux.whl -> change dist/[package-name]-[system]-manylinux2-14.whl 
 
