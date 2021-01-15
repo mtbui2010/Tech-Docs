@@ -62,12 +62,12 @@ git remote add $REPOSITORY_LINK
   ```sh
   git add . .gitignore
   ```
-  ** **.gitignore** includes all filepaths which will not be push. It is helpful to neglect heavy data or checkpoints, for example data/\*, checkpoint/\*
+  **.gitignore** includes all filepaths which will not be push. It is helpful to neglect heavy data or checkpoints, for example data/\*, checkpoint/\*
 - Edit commit message
 ```sh
 git commit -m $MSG
 ```
-** Commit message** descrbing who changed and what changed, e.x. [Cunho] Add HRC movej
+**Commit message** descrbing who changed and what changed, e.x. [Cunho] Add HRC movej
 - Push code to your brach
 ```sh
 git push origin $MEMBER_BRANCH
