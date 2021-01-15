@@ -15,7 +15,9 @@
 - ### 3.4. [Git](mds/packaging_git.md)
 - ### 3.5. [Pypi](mds/packaging_pypi.md)
 
-## 4. Co-Development
+## 4. Teamwork
 - ### 4.1. [Packaging your code](mds/co_packaging.md)
 - ### 4.2. [Work on same repository](mds/co_github_branch.md)
+
+## 5. [Summary](mds/summary.md)
 
