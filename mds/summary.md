@@ -49,7 +49,7 @@ git clone $REPOSITORY_LINK
 ### Resume your work
 - Set github link
 ```sh
-git clone $REPOSITORY_LINK
+git remote add $REPOSITORY_LINK
 ```
 - Uupdate changes from master branch
 ```sh
