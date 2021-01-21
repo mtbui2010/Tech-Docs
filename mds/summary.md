@@ -39,7 +39,8 @@ module = GuiModule(module=ImProcessModule,type='im_process', name='Image Process
 BasGUI(title='Image Processing Demo', modules=[module,], test_dirs=['data',])
 ```
 ## [3. Packaging](../mds/packaging_package.md) 
-[Sample package](https://github.com/mtbui2010/testlib)
+[Sample package](https://github.com/mtbui2010/testlib
+
 ## [4. Github](../mds/co_github_branch.md) 
 ### Clone code from master brach 
 - For first time only
@@ -95,6 +96,7 @@ git commit -m $MSG
 ```sh
 git push origin $MEMBER_BRANCH
 ```
+
 ## [5. Binarization](../mds/packaging_binarization.md) 
 [Sample code](https://github.com/mtbui2010/manage_scripts/blob/master/make_binary_package.py)
 ### Generate .pyi files
@@ -114,7 +116,7 @@ python3 setup.py build_ext --incplace
 
 2. Install:
 ```sh
-pip install  --upgrade setuptools whee
+pip install  --upgrade setuptools wheel
 pip install  --upgrade twine
 ```
 
