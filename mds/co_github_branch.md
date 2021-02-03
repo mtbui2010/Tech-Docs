@@ -1,5 +1,7 @@
 [Main](../README.md)
 
+## Keti SDK repository [Link](https://github.com/keti-ai/ketisdk)
+
 - A repository  includes **1 default master** branch and other **members’ branches**
 - Master branch should be **deployable**, mean that it can be used by **all users**
 - An member’s branch are **specified**, mean that it is for only one user
@@ -11,7 +13,7 @@
 - Do not **DELETE .git folder**, .git include all change history. If deleted, branch cannot merge to master
 - If .git accidently deleted, you can do **git rebase** (not sure), or you can copy .git from master branch to your working folder
 
-<img src="../images/17.PNG" width="100%">
+<img src="../images/17_.PNG" width="100%">
 
 - To avoid  conflit, users work on **different folders** with each others. 
 - If working in same folder, make sure working **file names are differents**.
